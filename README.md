@@ -1,0 +1,2 @@
+# ChatGptBestPrompts
+ChatGpt Prompts
